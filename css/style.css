@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.header{
+    height: 100px ;
+    background-color: darkgoldenrod;
+    color: antiquewhite;
+    text-align: center;
+    text-decoration: dotted;
+}
+.divide{
+    display: flex;
+}
+.left_side{
+    color: aliceblue;
+    background-color: blue;
+    width: 60%;
+    text-align: center;
+    height: 600px;
+
+
+}
+.right_side{
+    color: aliceblue;
+    background-color: rgb(53, 183, 181);
+    width: 40%;
+    text-align: center;
+    height: 600px;
+
+
+}
+.left_one{
+    color: rgb(15, 16, 17);
+    background-color: rgb(73, 53, 183);
+    text-align: center;
+    height: 50%;
+
+}
+.left_two{
+    color: rgb(15, 17, 18);
+    background-color: rgb(110, 223, 170);
+    text-align: center;
+    height: 50%;
+
+}
+
+
+
+.footer{
+    color: black;
+    background-color: darkcyan;
+    text-align: center;
+    height: 100px;
+}
